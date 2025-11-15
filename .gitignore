@@ -1,3 +1,8 @@
 # Logs
 logs/
 
+# Secrets
+cfg/secrets.cfg
+
+# Cache
+modelsounds.cache
