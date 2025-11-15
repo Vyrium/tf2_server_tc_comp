@@ -7,5 +7,5 @@ cfg/secrets.cfg
 # Cache
 modelsounds.cache
 
-# Graphs
-maps/graphs
+# Maps
+maps/
