@@ -1,7 +1,21 @@
 "GameInfo"
 {
-	game	"TF2 TC Competitive"
+	game	"Team Fortress 2"
 	type multiplayer_only
+	nomodels 1
+	nohimodel 1
+	nocrosshair 0
+	hidden_maps
+	{
+		"test_speakers"		1
+		"test_hardware"		1
+	}
+	nodegraph 0
+	GameData	"tf.fgd"
+	InstancePath "maps/instances/"
+	advcrosshair 1
+	supportsvr 1
+
 
 	FileSystem
 	{
@@ -41,5 +55,13 @@
 			// --- CHANGE: Downloads stored in shared tf2_base ---
 			game+download |gameinfo_path|../tf2_base/tf/download
 		}
+	}
+	
+	ToolsEnvironment
+	{
+		"Engine"			"Source"
+		"UseVPLATFORM"		"1"
+		"PythonVersion"		"2.7"
+		"PythonHomeDisable"	"1"
 	}
 }
