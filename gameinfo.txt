@@ -25,6 +25,7 @@
 		{
 			// --- CHANGE: Load this server's custom content first ---
 			game+mod |gameinfo_path|.
+			game+mod |gameinfo_path|addons/
 
 			// --- CHANGE: Use shared tf2_base installation instead of local tf/ ---
 			game+mod+custom_mod |gameinfo_path|../tf2_base/tf/custom/*
