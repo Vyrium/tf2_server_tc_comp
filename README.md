@@ -1,2 +1,3 @@
 # Team Colonslash Competitive Server
-https://www.teamfortress.tv/38608/sawrs-competitive-plugins
+[F2 Plugins](https://etf2l.org/forum/customise/topic-27485/)
+[Sawrs-Competitive-Plugins](https://www.teamfortress.tv/38608/sawrs-competitive-plugins)
