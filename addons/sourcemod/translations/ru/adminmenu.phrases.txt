@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:411336f5a28db62ad80de879807a5ee89ae4c30a4c2120906ea2be795d06a2b2
-size 315
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"ru"		"Меню администратора"
+	}
+
+	"Player Commands"
+	{
+		"ru"		"Управление игроками"
+	}
+
+	"Server Commands"
+	{
+		"ru"		"Управление сервером"
+	}
+
+	"Voting Commands"
+	{
+		"ru"		"Управление голосованиями"
+	}
+
+}

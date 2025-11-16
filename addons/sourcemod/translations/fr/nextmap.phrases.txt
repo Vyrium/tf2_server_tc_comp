@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c4260b648945354e66d4114ec0760d13cbe2d4bb40da71afc0b5adf2b1d01e0
-size 310
+"Phrases"
+{
+	"Map History"
+	{
+		"fr"		"Historique des Maps"
+	}
+
+	"Map"
+	{
+		"fr"		"[Map]"
+	}
+
+	"Started"
+	{
+		"fr"		"[Commencée]"
+	}
+
+	"Played Time"
+	{
+		"fr"		"[Temps Joué]"
+	}
+
+	"Reason"
+	{
+		"fr"		"[Raison d'interruption]"
+	}
+
+	"Current Map"
+	{
+		"fr"		"Map en Cours"
+	}
+
+	"ago"
+	{
+		"fr"		"Il y a"
+	}
+
+}

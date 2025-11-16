@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09caa71c3bce89e3411129c8553638f8b04b23a4afce1ac7515075ee463ae142
-size 296
+/**
+ * Called when soap_tournament's StopDeathmatching() func gets called.
+ *
+ * @noparam
+ * @noreturn
+ */
+ forward void SOAP_StopDeathMatching();
+/**
+ * Called when soap_tournament's StartDeathmatching() func gets called.
+ *
+ * @noparam
+ * @noreturn
+ */
+ forward void SOAP_StartDeathMatching();

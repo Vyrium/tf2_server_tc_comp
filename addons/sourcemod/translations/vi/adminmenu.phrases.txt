@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:397eec79a4add9019b82f7984d625e18202bdf237f983fd0336fe36a49c44ff3
-size 279
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"vi"		"Menu quản trị viên"
+	}
+
+	"Player Commands"
+	{
+		"vi"		"Các câu lệnh của người chơi"
+	}
+
+	"Server Commands"
+	{
+		"vi"		"Các câu lệnh của máy chủ"
+	}
+
+	"Voting Commands"
+	{
+		"vi"		"Các câu lệnh bầu chọn"
+	}
+
+}

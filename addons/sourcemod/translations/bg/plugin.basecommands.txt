@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:163b3dc1b5ebdd00b925dc92f463ab916f51c1cb12fbfcdd9141b04a36eec055
-size 304
+"Phrases"
+{
+	"Exec CFG"
+	{
+		"bg"		"Изпълняване на CFG файл"
+	}
+
+	"Player is an admin"
+	{
+		"bg"		"\"{1}\" е администратор."
+	}
+
+	"Username"
+	{
+		"bg"		"Потребителско име"
+	}
+
+	"Admin access"
+	{
+		"bg"		"Администраторски достъп"
+	}
+
+}

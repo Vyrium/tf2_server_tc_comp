@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c186004f0fb0a8e9fe4f2599be64f520ca917f18ec9bf744df0f8fec269edc14
-size 430
+"Phrases"
+{
+	"Slap player"
+	{
+		"sk"		"Slapnúť hráča"
+	}
+
+	"Slap damage"
+	{
+		"sk"		"Sila slapu"
+	}
+
+	"Slay player"
+	{
+		"sk"		"Zabit hráča"
+	}
+
+	"Slapped target"
+	{
+		"sk"		"{1} bol slapnutý."
+	}
+
+	"Slayed target"
+	{
+		"sk"		"{1} bol zabitý."
+	}
+
+	"Name changed"
+	{
+		"sk"		"Admin ti zmenil meno"
+	}
+
+	"Renamed target"
+	{
+		"sk"		"Hráč {1} bol premenovaný."
+	}
+
+	"Rename player"
+	{
+		"sk"		"Premenovať hráča"
+	}
+
+}

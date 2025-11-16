@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55c93dad8a5f61c6ec580b3f22474c20b4d83e97d6abf7f54dfc9db170fdbf70
-size 602
+"Phrases"
+{
+	"SM help commands"
+	{
+		"bg"		"SM помощни команди"
+	}
+
+	"No description available"
+	{
+		"bg"		"Няма налично описание"
+	}
+
+	"No commands available"
+	{
+		"bg"		"Няма налични команди"
+	}
+
+	"Type sm_help to see more"
+	{
+		"bg"		"Напишете sm_help {1}, за да видите още команди"
+	}
+
+	"Entries n - m in page k"
+	{
+		"bg"		"Резултати {1} - {2} на страница {3} "
+	}
+
+	"No matching results found"
+	{
+		"bg"		"Не са намерени резултати по дадените критерии"
+	}
+
+}

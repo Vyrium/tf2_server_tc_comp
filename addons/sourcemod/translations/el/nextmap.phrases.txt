@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e44c06542eaa7a5eb34a12602a0b12a824691fca42ccf0090281566a0cb204f
-size 361
+"Phrases"
+{
+	"Map History"
+	{
+		"el"		"Iστορικό Χαρτών"
+	}
+
+	"Map"
+	{
+		"el"		"[Χάρτης]"
+	}
+
+	"Started"
+	{
+		"el"		"[Ξεκίνησε]"
+	}
+
+	"Played Time"
+	{
+		"el"		"[Διάρκεια]"
+	}
+
+	"Reason"
+	{
+		"el"		"[Λόγος που έληξε]"
+	}
+
+	"Current Map"
+	{
+		"el"		"Τρέχον Χάρτης"
+	}
+
+	"ago"
+	{
+		"el"		"πριν"
+	}
+
+}

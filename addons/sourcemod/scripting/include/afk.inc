@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:58b4ed37cc5bad250ebce8416b7a884d89064ad670f46b1e3f766744a303a6e3
-size 349
+public SharedPlugin __pl_afk =
+{
+	name = "afk",
+	file = "afk.smx",
+#if defined REQUIRE_PLUGIN
+	required = 1,
+#else
+	required = 0,
+#endif
+};
+
+#if !defined REQUIRE_PLUGIN
+public void __pl_afk_SetNTVOptional()
+{
+	MarkNativeAsOptional("IsPlayerAFK");
+}
+#endif
+
+native bool IsPlayerAFK(int client);
+
+forward void OnAfkStateChanged(int client, bool afk);

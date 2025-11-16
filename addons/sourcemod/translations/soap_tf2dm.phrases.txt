@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3726e3b31657dee86967ae2b040b14a76efe45da49e9dc3df13e012ffb11f09
-size 474
+"Phrases"
+{
+	"Health Remaining"
+	{
+		"#format"		"{1:i}"
+		"en"			"Your attacker had {1} health remaining."
+	}
+	"Attacker is dead"
+	{
+		"en"			"Your attacker is dead."
+	}
+	"Plugins unloaded"
+	{
+		"en"			"Plugins unloaded."
+	}
+	"Plugins reloaded"
+	{
+		"en"			"Plugins reloaded."
+	}
+	"Kill HP Received"
+	{
+		"#format"		"{1:i},{2:s}"
+		"en"			"You got {1} hp for killing {2}"
+	}
+	"Damage HP Received"
+	{
+		"#format"		"{1:i},{2:s}"
+		"en"			"You got {1} hp for damaging {2}"
+	}
+}

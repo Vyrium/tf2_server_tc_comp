@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a2168217405d7ac9912a67199d2ac39d0135acde6d123984ec4c53abd1d626f
-size 79
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"ro"		"Sunet executat pe {1}"
+	}
+
+}

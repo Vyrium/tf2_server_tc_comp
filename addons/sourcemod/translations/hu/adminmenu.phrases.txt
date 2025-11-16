@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3040c4b5478c6afb3e0bf7c3f947af9f3f99a60522e7c81a52d19d345bcd1a66
-size 215
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"hu"		"Admin menü"
+	}
+
+	"Player Commands"
+	{
+		"hu"		"Játékos parancsok"
+	}
+
+	"Server Commands"
+	{
+		"hu"		"Szerver parancsok"
+	}
+
+	"Voting Commands"
+	{
+		"hu"		"Szavazások"
+	}
+
+}

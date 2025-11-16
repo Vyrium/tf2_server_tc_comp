@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4ab7eb3f02b4a35bd2ebdd8728f0c09689f85882d051d1b4d2852ef203a431e
-size 1038
+"Phrases"
+{
+	"Burn player"
+	{
+		"bg"		"Запалване на играч"
+	}
+
+	"Freeze player"
+	{
+		"bg"		"Замразяване на играч"
+	}
+
+	"Blind player"
+	{
+		"bg"		"Заслепяване на играч"
+	}
+
+	"Drug player"
+	{
+		"bg"		"Дрогиране на играч"
+	}
+
+	"Gravity player"
+	{
+		"bg"		"Промяна гравитацията на играч"
+	}
+
+	"Fully blind"
+	{
+		"bg"		"Напълно сляп"
+	}
+
+	"Half blind"
+	{
+		"bg"		"Наполовина сляп"
+	}
+
+	"No blind"
+	{
+		"bg"		"Не е сляп"
+	}
+
+	"Gravity amount"
+	{
+		"bg"		"Гравитация?"
+	}
+
+	"Gravity Very High"
+	{
+		"bg"		"Много висока гравитация"
+	}
+
+	"Gravity High"
+	{
+		"bg"		"Висока гравитация"
+	}
+
+	"Gravity Normal"
+	{
+		"bg"		"Нормална гравитация"
+	}
+
+	"Gravity Low"
+	{
+		"bg"		"Ниска гравитация"
+	}
+
+	"Gravity Very Low"
+	{
+		"bg"		"Много ниска гравитация"
+	}
+
+	"Unfrozen"
+	{
+		"bg"		"Вече не сте замразен"
+	}
+
+}

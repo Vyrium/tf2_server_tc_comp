@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1bb94bb4b66024f0b107b3fd9efd81b54ef2a967c0d35faa09250ab5bc7f102
-size 317
+"Phrases"
+{
+	"Map History"
+	{
+		"sk"		"História zmien máp"
+	}
+
+	"Map"
+	{
+		"sk"		"[Mapa]"
+	}
+
+	"Started"
+	{
+		"sk"		"[Spustené]  "
+	}
+
+	"Played Time"
+	{
+		"sk"		"[Herný čas]  "
+	}
+
+	"Reason"
+	{
+		"sk"		"[Dôvod pre ukončenie]  "
+	}
+
+	"Current Map"
+	{
+		"sk"		"Aktuálna mapa"
+	}
+
+	"ago"
+	{
+		"sk"		"pred"
+	}
+
+}

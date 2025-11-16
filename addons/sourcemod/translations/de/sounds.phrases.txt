@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b70783875699b3f714b1b229d454fb9c592d422ac054521fc6d7c682595c8ed7
-size 86
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"de"		"Ton wurde bei {1} abgespielt"
+	}
+
+}

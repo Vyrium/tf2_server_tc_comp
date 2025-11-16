@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70c54d46e8ac46fd7492359467f3b6e14a48554cfc48aa33b45658fef88f04b5
-size 85
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"fr"		"Kické pour cause de slot réservé."
+	}
+
+}

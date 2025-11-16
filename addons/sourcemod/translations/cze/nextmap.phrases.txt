@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29ab76f2546c6eb567c40253afffe8a8f5382622059ed2da542858ee22853e14
-size 303
+"Phrases"
+{
+	"Map History"
+	{
+		"cze"		"Historie map"
+	}
+
+	"Map"
+	{
+		"cze"		"[Mapa]"
+	}
+
+	"Started"
+	{
+		"cze"		"[Zacala]"
+	}
+
+	"Played Time"
+	{
+		"cze"		"[Odehrany cas]"
+	}
+
+	"Reason"
+	{
+		"cze"		" [Duvod k ukonceni]"
+	}
+
+	"Current Map"
+	{
+		"cze"		"Soucasna mapa"
+	}
+
+	"ago"
+	{
+		"cze"		"pred"
+	}
+
+}

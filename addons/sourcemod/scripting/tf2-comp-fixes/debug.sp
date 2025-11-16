@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8fe1cce0b5e8722bb9f04c2abc135932e1ff9205c8581aadfe54c9a990392f6e
-size 540
+static ConVar g_cvar;
+
+void Debug_Setup() {
+    g_cvar = CreateConVar("sm_cf_debug", "0", "Print debug statements in chat", FCVAR_NOTIFY, true,
+                          0.0, true, 2.0);
+}
+
+void LogDebug(const char[] format, any...) {
+    if (!g_cvar.BoolValue) {
+        return;
+    }
+
+    char message[256];
+
+    VFormat(message, sizeof(message), format, 2);
+
+    if (g_cvar.IntValue >= 1) {
+        LogMessage(message);
+    }
+
+    if (g_cvar.IntValue >= 2) {
+        PrintToChatAll("[TF2 Competitive Fixes] Debug: %s", message);
+    }
+}

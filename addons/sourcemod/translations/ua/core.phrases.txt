@@ -1,3 +1,88 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5ed2f0de1749bea512ad55adebee20a52fdd8045e07a1683b898540db5da8f0
-size 1109
+"Phrases"
+{
+	"No Access"
+	{
+		"ua"		"У вас немає доступу до цієї команди"
+	}
+
+	"Back"
+	{
+		"ua"		"Назад"
+	}
+
+	"Next"
+	{
+		"ua"		"Наступна"
+	}
+
+	"Exit"
+	{
+		"ua"		"Вихід"
+	}
+
+	"Previous"
+	{
+		"ua"		"Попередня"
+	}
+
+	"all players"
+	{
+		"ua"		"всі гравці"
+	}
+
+	"all humans"
+	{
+		"ua"		"всі люди"
+	}
+
+	"all bots"
+	{
+		"ua"		"всі боти"
+	}
+
+	"all dead players"
+	{
+		"ua"		"всі мертві гравці"
+	}
+
+	"all alive players"
+	{
+		"ua"		"всі живі гравці"
+	}
+
+	"_s"
+	{
+		"ua"		"{1}"
+	}
+
+	"all spectators"
+	{
+		"ua"		"всі глядачі"
+	}
+
+	"Vote Count"
+	{
+		"ua"		"Голосів: {1}/{2}, залишилось {3}"
+	}
+
+	"Voted For"
+	{
+		"ua"		"Гравець {1} проголосував за {2}"
+	}
+
+	"Changed Vote"
+	{
+		"ua"		"Гравець {1} змінив свій голос на {2}"
+	}
+
+	"No Vote"
+	{
+		"ua"		"Нема голосування"
+	}
+
+	"Name Reserved"
+	{
+		"ua"		"Ваше ім'я зарезервовано, введіть пароль щоб його використовувати."
+	}
+
+}

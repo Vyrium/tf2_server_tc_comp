@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98f932437730f68608760989165a704fb5abec9b8bc092327f5c0c61b880690d
-size 543
+"Games"
+{
+	/* Sounds */
+	"#default"
+	{
+		"Keys"
+		{
+			"SlapSoundCount"	"3"
+			"SlapSound1"		"player/pl_fallpain1.wav"
+			"SlapSound2"		"player/pl_fallpain3.wav"
+			"SlapSound3"		"player/pl_pain5.wav"
+		}
+	}
+
+	/* Properties */
+	"#default"
+	{
+		"Keys"
+		{
+			"m_iFrags"		"m_iFrags"
+			// Netprop on the team entity for team score
+			"m_iScore"		"m_iScore"
+		}
+		
+		"Offsets"
+		{
+			"m_iHealth"
+			{
+				"class"		"CBasePlayer"
+				"prop"		"m_iHealth"
+			}
+			"m_lifeState"
+			{
+				"class"		"CBasePlayer"
+				"prop"		"m_lifeState"
+			}
+		}
+	}
+}

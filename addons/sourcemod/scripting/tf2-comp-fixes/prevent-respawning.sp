@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f7e92c7e3c9835abb750fbd71faf5a5192702b9b15b2dcf6ef0043801334bc4
-size 795
+static Handle g_detour_PointInRespawnRoom;
+
+void PreventRespawning_Setup(Handle game_config) {
+    g_detour_PointInRespawnRoom = CheckedDHookCreateFromConf(game_config, "PointInRespawnRoom");
+
+    CreateBoolConVar("sm_prevent_respawning", WhenConVarChange);
+}
+
+static void WhenConVarChange(ConVar cvar, const char[] before, const char[] after) {
+    if (cvar.BoolValue == TruthyConVar(before)) {
+        return;
+    }
+
+    if (!DHookToggleDetour(g_detour_PointInRespawnRoom, HOOK_PRE, Detour_Pre, cvar.BoolValue)) {
+        SetFailState("Failed to toggle detour on PointInRespawnRoom");
+    }
+}
+
+static MRESReturn Detour_Pre(Handle ret, Handle params) {
+    if (!DHookIsNullParam(params, 1)) {
+        DHookSetReturn(ret, false);
+        return MRES_Supercede;
+    }
+
+    return MRES_Ignored;
+}

@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed31c8fd9e94085bca2c114dbb7640d6c3bbe171542525e8ba4904eda4b46f93
-size 518
+"Phrases"
+{
+	"Health Remaining"
+	{
+		"ru"			"У противника осталось {1} оз."
+	}
+	"Attacker is dead"
+	{
+		"ru"			"Ваш убийца мёртв."
+	}
+	"Plugins unloaded"
+	{
+		"ru"			"Плагины отключены."
+	}
+	"Plugins reloaded"
+	{
+		"ru"			"Плагины загружены."
+	}
+	"Kill HP Received"
+	{
+		"ru"			"Вы получили {1} оз за убийство {2}"
+	}
+	"Damage HP Received"
+	{
+		"ru"			"Вы получили {1} оз за нанесение урона {2}"
+	}
+}

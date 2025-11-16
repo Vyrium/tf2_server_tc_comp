@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2004c9902abc14ea24357f19a2b8bbd4387aa298abfc2d9e122bdc6be75e320
-size 227
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"ko"		"관리자 메뉴"
+	}
+
+	"Player Commands"
+	{
+		"ko"		"플레이어 명령어"
+	}
+
+	"Server Commands"
+	{
+		"ko"		"서버 명령어"
+	}
+
+	"Voting Commands"
+	{
+		"ko"		"투표 명령어"
+	}
+
+}

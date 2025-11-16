@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed60a10fa73dc457d6f979f2d225252f9732019d9ebe8553e8265dbc5a2edb52
-size 216
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"nl"		"Admin Menu"
+	}
+
+	"Player Commands"
+	{
+		"nl"		"Speler Commando's"
+	}
+
+	"Server Commands"
+	{
+		"nl"		"Server Commando's"
+	}
+
+	"Voting Commands"
+	{
+		"nl"		"Stem Commando's"
+	}
+
+}

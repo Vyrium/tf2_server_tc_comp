@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:77a012b63e1d36a55f747030f27fe77bb706a2c5c16f112777161e33bf3906bf
-size 86
+"Phrases"
+{
+	"Flooding the server"
+	{
+		"ru"		"Вы засоряете чат!"
+	}
+
+}

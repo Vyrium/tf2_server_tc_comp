@@ -1,3 +1,103 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b55839092dd5d44d4f74d09824e2a3d6a1d6e98855888d0f44a50238d590c1b
-size 1216
+"Phrases"
+{
+	"Burn player"
+	{
+		"he"		"שרוף שחקן"
+	}
+
+	"FireBomb player"
+	{
+		"he"		"שלח פצצת אש לשחקן"
+	}
+
+	"Freeze player"
+	{
+		"he"		"הקפא שחקן"
+	}
+
+	"FreezeBomb player"
+	{
+		"he"		"שלח פצצת קור לשחקן"
+	}
+
+	"Beacon player"
+	{
+		"he"		"סמן שחקן"
+	}
+
+	"NoClip player"
+	{
+		"he"		"ישם לשחקן תזוזה חופשית"
+	}
+
+	"Blind player"
+	{
+		"he"		"עוור שחקן"
+	}
+
+	"Drug player"
+	{
+		"he"		"סמם שחקן"
+	}
+
+	"Gravity player"
+	{
+		"he"		"ישם כוח משיכה ע ל שחקן אחד"
+	}
+
+	"Blind amount"
+	{
+		"he"		"כמה עיוור?"
+	}
+
+	"Fully blind"
+	{
+		"he"		"עיוור לחלוטין"
+	}
+
+	"Half blind"
+	{
+		"he"		"חצי עיוור"
+	}
+
+	"No blind"
+	{
+		"he"		"לא עיוור"
+	}
+
+	"Gravity amount"
+	{
+		"he"		"כוח משיכה?"
+	}
+
+	"Gravity Very High"
+	{
+		"he"		"כוח משיכה גבוהה מאוד"
+	}
+
+	"Gravity High"
+	{
+		"he"		"כוח משיכה גבוהה"
+	}
+
+	"Gravity Normal"
+	{
+		"he"		"כוח משיכה נורמלי"
+	}
+
+	"Gravity Low"
+	{
+		"he"		"כוח משיכה נמוך"
+	}
+
+	"Gravity Very Low"
+	{
+		"he"		"כוח משיכה נמוך מאוד"
+	}
+
+	"Froze target"
+	{
+		"he"		"השחקן {1} הוקפא"
+	}
+
+}

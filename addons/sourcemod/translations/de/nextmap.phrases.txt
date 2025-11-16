@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99491d7f7a47e14ecf008a49624074ed46b210a21de7d5bfb374ed4cb565df85
-size 318
+"Phrases"
+{
+	"Map History"
+	{
+		"de"		"Zuletzt gespielte Karten"
+	}
+
+	"Map"
+	{
+		"de"		"[Karte]"
+	}
+
+	"Started"
+	{
+		"de"		"[Gestartet]"
+	}
+
+	"Played Time"
+	{
+		"de"		"[Gespielte Zeit]"
+	}
+
+	"Reason"
+	{
+		"de"		"[Grund für Beendigung]"
+	}
+
+	"Current Map"
+	{
+		"de"		"Aktuelle Karte"
+	}
+
+	"ago"
+	{
+		"de"		"vor"
+	}
+
+}

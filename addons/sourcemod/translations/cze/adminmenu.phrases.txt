@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:192733710e9dfd80ca0f464d6d6b4f5a5cf205a88b1868f5e7f200e7ee06b220
-size 212
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"cze"		"Admin Menu"
+	}
+
+	"Player Commands"
+	{
+		"cze"		"Hracske prikazy"
+	}
+
+	"Server Commands"
+	{
+		"cze"		"Serverove prikazy"
+	}
+
+	"Voting Commands"
+	{
+		"cze"		"Hlasovani"
+	}
+
+}

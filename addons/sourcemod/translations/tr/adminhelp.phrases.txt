@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f7b2bab99faa850c39dc93f55b9f01708cc3438d24d2da2612c00368cb2b41a0
-size 474
+"Phrases"
+{
+	"SM help commands"
+	{
+		"tr"		"SourceMod Yardımı: Komut Bilgisi"
+	}
+
+	"No description available"
+	{
+		"tr"		"Açıklama mevcut değil"
+	}
+
+	"No commands available"
+	{
+		"tr"		"Komut mevcut değil"
+	}
+
+	"Type sm_help to see more"
+	{
+		"tr"		"Daha fazla komut görmek için sm_help {1} yazın"
+	}
+
+	"Entries n - m in page k"
+	{
+		"tr"		"{3}. sayfadaki {1} - {2} arası girişler"
+	}
+
+	"No matching results found"
+	{
+		"tr"		"Eşleşen sonuç bulunamadı"
+	}
+
+}

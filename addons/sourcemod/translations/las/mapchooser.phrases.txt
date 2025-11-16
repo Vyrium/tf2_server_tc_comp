@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e564ac8a3625ae6ef4b76243af954537b3c0f5a232bb5e69ed6426c06c3e9306
-size 814
+"Phrases"
+{
+	"Vote Nextmap"
+	{
+		"las"		"Vota por el siguiente mapa!"
+	}
+
+	"Nextmap Voting Started"
+	{
+		"las"		"La votación para el próximo mapa comenzó."
+	}
+
+	"Nextmap Voting Finished"
+	{
+		"las"		"Votación de mapa finalizada. El próximo mapa será {1}. (Obtenidos {2}%% de {3} votos) "
+	}
+
+	"Current Map Extended"
+	{
+		"las"		"El mapa actual fue extendido. (Obtenidos {1}%% de {2} votos)"
+	}
+
+	"Extend Map"
+	{
+		"las"		"Extender el mapa actual"
+	}
+
+	"Dont Change"
+	{
+		"las"		"No cambiar"
+	}
+
+	"Current Map Stays"
+	{
+		"las"		"¡El mapa actual continuará! (Obtenidos {1}%% de {2} votos)"
+	}
+
+	"Changed Next Map"
+	{
+		"las"		"Siguiente mapa cambiado a \"{1}\"."
+	}
+
+	"Starting Runoff"
+	{
+		"las"		"Ningún mapa superó el {1}%% de los votos ({2} [{3}%%] & {4} [{5}%%]), comenzando segunda votación"
+	}
+
+}

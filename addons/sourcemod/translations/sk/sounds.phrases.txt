@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6dcc75e9fb478de2d76017b0b3e378f097c27a5cbcabc47c367e90af5e8050b0
-size 80
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"sk"		"Prehratý zvuk pre {1}"
+	}
+
+}

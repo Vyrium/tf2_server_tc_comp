@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2767c1add748fb791c13be516540e482efcf248e5d591bf04b94eeb15f9d8318
-size 265
+"Phrases"
+{
+	"Health Remaining"
+	{
+		"de"			"Dein Gegner überlebte mit {1} HP."
+	}
+	"Attacker is dead"
+	{
+		"de"			"Dein Gegner ist tot."
+	}
+	"Plugins unloaded"
+	{
+		"de"			"Plugins deaktiviert."
+	}
+	"Plugins reloaded"
+	{
+		"de"			"Plugins wieder aktiviert."
+	}
+}

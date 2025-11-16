@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37b6273e7574c3ae6ad6b1b1c17dfa7d74463854e29efae3744710ba3d5f36c9
-size 82
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"las"		"Desconectado por reserva de slot"
+	}
+
+}

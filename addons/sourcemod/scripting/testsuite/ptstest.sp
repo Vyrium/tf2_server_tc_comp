@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:020e73cae09e918e8d1bcca19dfa1f281eed8e935f572ae6ccec2a17afbdfe71
-size 474
+#include <sourcemod>
+
+public Plugin:myinfo = 
+{
+	name = "Test target filters",
+	author = "AlliedModders LLC",
+	description = "Tests target filters",
+	version = "1.0.0.0",
+	url = "http://www.sourcemod.net/"
+};
+
+public OnPluginStart()
+{
+	AddMultiTargetFilter("@crab", filter, "all players", true)
+}
+
+public bool:filter(const String:pattern[], Handle:clients)
+{
+	for (new i = 1; i <= MaxClients; i++) {
+		if (IsPlayerInGame(i))
+			PushArrayCell(clients, i)
+	}
+
+	return true
+}
+

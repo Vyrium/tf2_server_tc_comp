@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ae7eef22b95efa6e9ea7a784f23c4e967ee7d70bc0c915d5921bfcb305a6018
-size 420
+"Phrases"
+{
+	"Slap player"
+	{
+		"nl"		"Slap speler"
+	}
+
+	"Slap damage"
+	{
+		"nl"		"Slap schade"
+	}
+
+	"Slay player"
+	{
+		"nl"		"Slay speler"
+	}
+
+	"Slapped target"
+	{
+		"nl"		"Speler {1} geslagen."
+	}
+
+	"Slayed target"
+	{
+		"nl"		"Speler {1} gedood."
+	}
+
+	"Name changed"
+	{
+		"nl"		"Een admin heeft je naam veranderd"
+	}
+
+	"Renamed target"
+	{
+		"nl"		"Hernoemd {1}."
+	}
+
+	"Rename player"
+	{
+		"nl"		"Hernoem speler"
+	}
+
+}

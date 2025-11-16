@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:899d7ca6f0cdffdee912707294abb1ef767d54b5a17e50300eafa6d06fac8ca2
-size 90
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"fi"		"Soitettiin ääni pelaajalle {1}"
+	}
+
+}

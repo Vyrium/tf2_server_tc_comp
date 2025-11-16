@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9436a75f1ff271eea7e59def26d473defb7d11bef1a83f554cb106432d32b770
-size 435
+"Phrases"
+{
+	"Slap player"
+	{
+		"es"		"Abofetear jugador"
+	}
+
+	"Slap damage"
+	{
+		"es"		"Daño de bofetada"
+	}
+
+	"Slay player"
+	{
+		"es"		"Matar jugador"
+	}
+
+	"Slapped target"
+	{
+		"es"		"{1} abofeteado."
+	}
+
+	"Slayed target"
+	{
+		"es"		"{1} matado."
+	}
+
+	"Name changed"
+	{
+		"es"		"Un administrador te ha cambiado el nombre"
+	}
+
+	"Renamed target"
+	{
+		"es"		"{1} renombrado."
+	}
+
+	"Rename player"
+	{
+		"es"		"Renombrar jugador"
+	}
+
+}

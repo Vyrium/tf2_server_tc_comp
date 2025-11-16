@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da01d005a65b3bb9e5551eba95e30759f0cc611e8128e5b7111b43eb2dffa51f
-size 496
+"Phrases"
+{
+	"SM help commands"
+	{
+		"las"		"Ayuda SourceMod: Información de Comandos"
+	}
+
+	"No description available"
+	{
+		"las"		"Descripción no disponible"
+	}
+
+	"No commands available"
+	{
+		"las"		"No hay comandos disponibles"
+	}
+
+	"Type sm_help to see more"
+	{
+		"las"		"Escribe sm_help {1} para ver más comandos"
+	}
+
+	"Entries n - m in page k"
+	{
+		"las"		"Entradas {1} - {2} en página {3}"
+	}
+
+	"No matching results found"
+	{
+		"las"		"No se encontraron resultados que coincidan"
+	}
+
+}

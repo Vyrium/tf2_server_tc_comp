@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9128d81eef0a8292fd9be3e0ed18bd23d5e6a6c55749d6f0f4e4b96daa19f854
-size 484
+"Phrases"
+{
+	"SM help commands"
+	{
+		"sk"		"SourceMod Pomoc: Informácia o príkaze"
+	}
+
+	"No description available"
+	{
+		"sk"		"Žiadny dostupný popis"
+	}
+
+	"No commands available"
+	{
+		"sk"		"Žiadne dostupné príkazy"
+	}
+
+	"Type sm_help to see more"
+	{
+		"sk"		"Napíš sm_help {1} pre zobrazenie ďalších príkazov"
+	}
+
+	"Entries n - m in page k"
+	{
+		"sk"		"Položky {1} - {2} na strane {3}"
+	}
+
+	"No matching results found"
+	{
+		"sk"		"Žiadne zhody neboli nájdené"
+	}
+
+}

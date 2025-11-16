@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42f83c69d40073dbf97728c1b2e57daf2422bf15d7390f03084d37dbf86d6733
-size 86
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"hu"		"Ki lettél rúgva helyfoglalás miatt"
+	}
+
+}

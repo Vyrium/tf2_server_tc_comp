@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b64b4aa9f873c30ef869e2154b5c40689f94b25694ba2d923e6a5d6ce355a318
-size 373
+"Phrases"
+{
+	"Map History"
+	{
+		"ua"		"Історія карт"
+	}
+
+	"Map"
+	{
+		"ua"		"[Карта]"
+	}
+
+	"Started"
+	{
+		"ua"		"[Почалося]"
+	}
+
+	"Played Time"
+	{
+		"ua"		"[Зіграно часу] "
+	}
+
+	"Reason"
+	{
+		"ua"		"[Причина завершення]"
+	}
+
+	"Current Map"
+	{
+		"ua"		"Поточна карта"
+	}
+
+	"ago"
+	{
+		"ua"		"раніше"
+	}
+
+}

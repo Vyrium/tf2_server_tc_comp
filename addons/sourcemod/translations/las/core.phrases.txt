@@ -1,3 +1,88 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e02b9dd0ee85b7f532e0871102711de06e0119fc5f35cc7285ad812b735dca01
-size 920
+"Phrases"
+{
+	"No Access"
+	{
+		"las"		"No tienes acceso a este comando"
+	}
+
+	"Back"
+	{
+		"las"		"Volver"
+	}
+
+	"Next"
+	{
+		"las"		"Siguiente"
+	}
+
+	"Exit"
+	{
+		"las"		"Salir"
+	}
+
+	"Previous"
+	{
+		"las"		"Anterior"
+	}
+
+	"all players"
+	{
+		"las"		"todos los jugadores"
+	}
+
+	"all humans"
+	{
+		"las"		"todos los humanos"
+	}
+
+	"all bots"
+	{
+		"las"		"todos los bots"
+	}
+
+	"all dead players"
+	{
+		"las"		"todos los jugadores muertos"
+	}
+
+	"all alive players"
+	{
+		"las"		"todos los jugadores vivos"
+	}
+
+	"_s"
+	{
+		"las"		"{1}"
+	}
+
+	"all spectators"
+	{
+		"las"		"todos los espectadores"
+	}
+
+	"Vote Count"
+	{
+		"las"		"Votos: {1}/{2}, {3} restante(s)"
+	}
+
+	"Voted For"
+	{
+		"las"		"{1} votó por {2}"
+	}
+
+	"Changed Vote"
+	{
+		"las"		"{1} cambió su voto a {2}"
+	}
+
+	"No Vote"
+	{
+		"las"		"No hay votos"
+	}
+
+	"Name Reserved"
+	{
+		"las"		"Tu nombre se encuentra reservado por SourceMod; establece una contraseña para usarlo."
+	}
+
+}

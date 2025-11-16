@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68024bf24d13368e628b982dbcc3a48eb75ec8434a39cfff39f1e07cdd1ce8c4
-size 312
+
+#if defined _auto_version_included
+ #endinput
+#endif
+#define _auto_version_included
+
+#define SOURCEMOD_V_TAG		""
+#define SOURCEMOD_V_CSET	"ff8e0fa8"
+#define SOURCEMOD_V_MAJOR	1
+#define SOURCEMOD_V_MINOR	12
+#define SOURCEMOD_V_RELEASE	0
+#define SOURCEMOD_V_REV		7219
+
+#define SOURCEMOD_VERSION	"1.12.0.7219"
+    

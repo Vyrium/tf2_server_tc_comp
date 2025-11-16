@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6737f246f6c3d189e12627ed1b1435396bc30810cd027de888ef9f99947eb0c
-size 94
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"tr"		"Yer ayırtıldığı için düşürüldünüz"
+	}
+
+}

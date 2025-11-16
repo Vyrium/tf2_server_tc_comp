@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e05731161545239913db373008c45a24882b37202c0bf0c9d21701ae2743ce92
-size 78
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"chi"		"播放音乐给 {1}"
+	}
+
+}

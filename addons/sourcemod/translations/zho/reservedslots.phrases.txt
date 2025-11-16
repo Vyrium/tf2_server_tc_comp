@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d471bae42123a471680a6e068ec6f004134577d280bd34ed990dc87b87a907ae
-size 92
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"zho"		"因無權使用預留通道而中斷連線"
+	}
+
+}

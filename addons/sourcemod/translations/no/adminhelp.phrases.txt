@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f51257389f437f21110de7f85ef8d81d102e2b23b602508b3b9197e35b7c64a6
-size 469
+"Phrases"
+{
+	"SM help commands"
+	{
+		"no"		"SourceMod Hjelp: Kommando Informasjon"
+	}
+
+	"No description available"
+	{
+		"no"		"Ingen beskrivelse tilgjengelig"
+	}
+
+	"No commands available"
+	{
+		"no"		"Ingen kommandoer tilgjengelig"
+	}
+
+	"Type sm_help to see more"
+	{
+		"no"		"Skriv sm_help for å se mere"
+	}
+
+	"Entries n - m in page k"
+	{
+		"no"		"Oppføring {1} - {2} på side {3}"
+	}
+
+	"No matching results found"
+	{
+		"no"		"Ingen matchende resultater funnet"
+	}
+
+}

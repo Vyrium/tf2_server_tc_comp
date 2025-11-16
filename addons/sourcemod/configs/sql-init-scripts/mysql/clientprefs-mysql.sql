@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92547f1ba719d3698322c814508b44a354354cd0b959fbe018a21d42492f545f
-size 345
+CREATE TABLE sm_cookies
+(
+	id INTEGER unsigned NOT NULL auto_increment,
+	name varchar(30) NOT NULL UNIQUE,
+	description varchar(255),
+	access INTEGER,
+	PRIMARY KEY (id)
+);
+
+CREATE TABLE sm_cookie_cache
+(
+	player varchar(65) NOT NULL,
+	cookie_id int(10) NOT NULL,
+	value varchar(100),
+	timestamp int NOT NULL,
+	PRIMARY KEY (player, cookie_id)
+);

@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00cb91ad235b45849f39833df042353f0564481f4b39591a0048f091b2b4e896
-size 653
+"Phrases"
+{
+	"Cookie List"
+	{
+		"nl"		"Sourcemod Cookie lijst"
+	}
+
+	"Printing Cookie List"
+	{
+		"nl"		"Cookie lijst laten zien naar de console"
+	}
+
+	"Cookie not Found"
+	{
+		"nl"		"Kan geen cookie \"{1}\" vinden"
+	}
+
+	"Cookie Value"
+	{
+		"nl"		"{1} zijn waarde is {2}"
+	}
+
+	"Protected Cookie"
+	{
+		"nl"		"Kan de waarde van de beveiligde cookie \"{1}\" niet aanpassen"
+	}
+
+	"Cookie Changed Value"
+	{
+		"nl"		"De waarde van cookie \"{1}\" is naar \"{2}\" veranderd"
+	}
+
+	"No Console"
+	{
+		"nl"		"Kan geen instellingsmenu laten zien naar de console"
+	}
+
+	"Choose Option"
+	{
+		"nl"		"Kies optie"
+	}
+
+	"Client Settings"
+	{
+		"nl"		"Client instellingen"
+	}
+
+}

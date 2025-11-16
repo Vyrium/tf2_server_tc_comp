@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d2351df8a2de64907c3013ab3cee79b97d1054f4210ccb9c34f0f9957451744
-size 884
+"Games"
+{
+	"NeotokyoSource"
+	{
+		"Offsets"
+		{
+			"EndTouch"
+			{
+				"windows"	"90"
+			}
+			"FireBullets"
+			{
+				"windows"	"102"
+			}
+			"OnTakeDamage"
+			{
+				"windows"	"60"
+			}
+			"PreThink"
+			{
+				"windows"	"274"
+			}
+			"PostThink"
+			{
+				"windows"	"275"
+			}
+			"SetTransmit"
+			{
+				"windows"	"21"
+			}
+			"ShouldCollide"
+			{
+				"windows"	"17"
+			}
+			"Spawn"
+			{
+				"windows"	"23"
+			}
+			"StartTouch"
+			{
+				"windows"	"88"
+			}
+			"Think"
+			{
+				"windows"	"46"
+			}
+			"Touch"
+			{
+				"windows"	"89"
+			}
+			"TraceAttack"
+			{
+				"windows"	"58"
+			}
+			"VPhysicsUpdate"
+			{
+				"windows"	"142"
+			}
+			"Weapon_CanSwitchTo"
+			{
+				"windows"	"222"
+			}
+			"Weapon_CanUse"
+			{
+				"windows"	"216"
+			}
+			"Weapon_Drop"
+			{
+				"windows"	"219"
+			}
+			"Weapon_Equip"
+			{
+				"windows"	"217"
+			}
+			"Weapon_Switch"
+			{
+				"windows"	"220"
+			}
+		}
+	}
+}

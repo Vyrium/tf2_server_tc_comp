@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1626e2661320c5c612760d92e829893841d56acc3beb856086f398581202ee9
-size 80
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"vi"		"Bị đuổi để dành chỗ."
+	}
+
+}

@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1b70ec9bc869730f7d7f2e48fe71493fedcd50505e6e58c3aece736b5e0e441
-size 494
+"Phrases"
+{
+	"SM help commands"
+	{
+		"vi"		"Các câu lệnh giúp đỡ của SourceMod"
+	}
+
+	"No description available"
+	{
+		"vi"		"Không có mô tả nào"
+	}
+
+	"No commands available"
+	{
+		"vi"		"Không có câu lệnh nào"
+	}
+
+	"Type sm_help to see more"
+	{
+		"vi"		"Gõ sm_help {1} để xem thêm câu lệnh"
+	}
+
+	"Entries n - m in page k"
+	{
+		"vi"		"Lựa chọn {1} - {2} ở trang {3}"
+	}
+
+	"No matching results found"
+	{
+		"vi"		"Không tìm thấy kết quả phù hợp"
+	}
+
+}

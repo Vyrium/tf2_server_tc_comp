@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd401e023af8525a188899790feb836a6839806f99025d9d878cf72f16173a1f
-size 334
+"Phrases"
+{
+	"Map History"
+	{
+		"lt"		"Žemėlapių Istorija"
+	}
+
+	"Map"
+	{
+		"lt"		"[Žemėlapis]"
+	}
+
+	"Started"
+	{
+		"lt"		"[Prasidėjo]"
+	}
+
+	"Played Time"
+	{
+		"lt"		"[Žaista Laiko]"
+	}
+
+	"Reason"
+	{
+		"lt"		"[Pasibaigimo priežastis]"
+	}
+
+	"Current Map"
+	{
+		"lt"		"Dabartinis Žemėlapis"
+	}
+
+	"ago"
+	{
+		"lt"		"prieš"
+	}
+
+}

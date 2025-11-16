@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c866dfb8656f6d02aaa2179b6ffd6abec928bcd75f5677c340e349dda3f05aa
-size 86
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"chi"		"无权使用保留通道而被踢出"
+	}
+
+}

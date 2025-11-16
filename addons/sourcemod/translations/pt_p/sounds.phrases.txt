@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0a099019b3ae52ce5aa1240ad0126da8d56f66218456001345525153071b86c
-size 79
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"pt_p"		"Som tocado para {1}"
+	}
+
+}

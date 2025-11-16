@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:257501ff974dfa7c0bb8d4cc4f35a5eff0e1822a281c69ef936c813b99ee7cdb
-size 302
+"Phrases"
+{
+	"Map History"
+	{
+		"zho"		"地圖紀錄"
+	}
+
+	"Map"
+	{
+		"zho"		"地圖"
+	}
+
+	"Started"
+	{
+		"zho"		"[已開始]"
+	}
+
+	"Played Time"
+	{
+		"zho"		"[已遊玩時間]"
+	}
+
+	"Reason"
+	{
+		"zho"		"[結束理由]"
+	}
+
+	"Current Map"
+	{
+		"zho"		"當前地圖"
+	}
+
+	"ago"
+	{
+		"zho"		"前"
+	}
+
+}

@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0eeedcde90ee28723e50a52818f8a2609f804fa471f12b033f02f50b78faf7d
-size 1040
+"Phrases"
+{
+	"Already Nominated"
+	{
+		"tr"		"Zaten bir haritayı aday olarak gösterdiniz."
+	}
+
+	"Max Nominations"
+	{
+		"tr"		"İzin verilen en fazla aday sayısına ulaşıldı."
+	}
+
+	"Map Already In Vote"
+	{
+		"tr"		"'{1}' adlı harita zaten Adaylar listesinde."
+	}
+
+	"Map Inserted"
+	{
+		"tr"		"'{1}' adlı harita adaylar listesine eklendi."
+	}
+
+	"Map Already Nominated"
+	{
+		"tr"		"Seçtiğiniz harita zaten aday olarak gösterildi."
+	}
+
+	"Map Nominated"
+	{
+		"tr"		"{1} {2}'i aday gösterdi."
+	}
+
+	"Map Nomination Changed"
+	{
+		"tr"		"{1} adayını {2} olarak değiştirdi."
+	}
+
+	"Nominate Title"
+	{
+		"tr"		"Haritayı Aday Göster:"
+	}
+
+	"Can't Nominate Current Map"
+	{
+		"tr"		"Seçtiğiniz haritayı geçerli harita olduğu için aday gösteremezsiniz"
+	}
+
+	"Map in Exclude List"
+	{
+		"tr"		"Seçtiğiniz haritayı yakın zamanda oynandığı için aday gösteremezsiniz"
+	}
+
+	"Current Map"
+	{
+		"tr"		"Geçerli Harita"
+	}
+
+	"Recently Played"
+	{
+		"tr"		"Yakın Zamanda Oynandı"
+	}
+
+	"Nominated"
+	{
+		"tr"		"Aday Gösterildi"
+	}
+
+}

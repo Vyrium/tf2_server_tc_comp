@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5211ff8fee3622d1e17eb8f82807d722e1c9d724408047cf24dd01f680446118
-size 459
+"Phrases"
+{
+	"SM help commands"
+	{
+		"nl"		"SourceMod Help: Commando Informatie"
+	}
+
+	"No description available"
+	{
+		"nl"		"Geen beschrijving beschikbaar"
+	}
+
+	"No commands available"
+	{
+		"nl"		"Geen commando's beschikbaar"
+	}
+
+	"Type sm_help to see more"
+	{
+		"nl"		"Type sm_help {1} voor meer commando's"
+	}
+
+	"Entries n - m in page k"
+	{
+		"nl"		"Data {1} - {2} op pagina {3}"
+	}
+
+	"No matching results found"
+	{
+		"nl"		"Geen resultaten gevonden"
+	}
+
+}

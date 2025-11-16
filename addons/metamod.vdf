@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c7cd307327098cb389ade4b454581f71b33c871cbef4aa07a0f5b70ca3167d8
-size 50
+"Plugin"
+{
+	"file"	"addons/metamod/bin/server"
+}
+

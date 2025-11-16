@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2922086e0f72b2d0c936e300767338c5ce0725a6fe6e8665a71984efe8206de0
-size 309
+"Phrases"
+{
+	"Map History"
+	{
+		"jp"		"マップ履歴"
+	}
+
+	"Map"
+	{
+		"jp"		"[マップ]"
+	}
+
+	"Started"
+	{
+		"jp"		"[開始]"
+	}
+
+	"Played Time"
+	{
+		"jp"		"[プレイ時間]"
+	}
+
+	"Reason"
+	{
+		"jp"		"[終了の理由]"
+	}
+
+	"Current Map"
+	{
+		"jp"		"現在のマップ"
+	}
+
+	"ago"
+	{
+		"jp"		"前"
+	}
+
+}

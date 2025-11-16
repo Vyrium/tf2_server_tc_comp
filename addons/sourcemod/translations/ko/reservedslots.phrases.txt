@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:925ef4ee27a7bec400f65d2062dd5edc18e32361388d2d00e75bcacf8ff6f570
-size 104
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"ko"		"예약된 자리 때문에 게임에서 나왔습니다"
+	}
+
+}

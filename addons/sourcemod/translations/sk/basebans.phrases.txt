@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:634f930c8811e62274d7fe9c3bb8fed3fe08387deb7786f117b0d5714ac7a0e0
-size 970
+"Phrases"
+{
+	"Ban player"
+	{
+		"sk"		"Zabanovať hráča"
+	}
+
+	"Ban reason"
+	{
+		"sk"		"Dôvod banu"
+	}
+
+	"Permabanned player"
+	{
+		"sk"		"Hráč \"{1}\" bol permanentne zabanovaný."
+	}
+
+	"Permabanned player reason"
+	{
+		"sk"		"Hráč \"{1}\" bol permanentne zabanovaný (dôvod: {2})."
+	}
+
+	"Banned player"
+	{
+		"sk"		"Hráč \"{1}\" bol zabanovaný na {2} minút."
+	}
+
+	"Banned player reason"
+	{
+		"sk"		"Hráč \"{1}\" bol zabanovaný na {2} minút (dôvod: {3}). "
+	}
+
+	"Removed bans matching"
+	{
+		"sk"		"Odstránené bany pre: {1}"
+	}
+
+	"Ban added"
+	{
+		"sk"		"Ban bol pridaný."
+	}
+
+	"Cannot ban that IP"
+	{
+		"sk"		"Nemôžeš zabanovať danú IP adresu."
+	}
+
+	"Custom ban reason explanation"
+	{
+		"sk"		"Zadaj dôvod ako chat správu. Použi {1} pre zrušenie."
+	}
+
+	"AbortBan applied successfully"
+	{
+		"sk"		"Ban bol zrušený."
+	}
+
+	"AbortBan not waiting for custom reason"
+	{
+		"sk"		"Nečaká sa na zadanie dôvodu banu, žiaden ban na zrušenie. "
+	}
+
+}

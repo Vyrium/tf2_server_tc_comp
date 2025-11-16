@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20f08398f0d1a8307724c7501190d6414964dcbcc11490caa90a2e078e514f65
-size 94
+"Phrases"
+{
+	"Flooding the server"
+	{
+		"pt_p"		"Estás a enviar demasiadas mensagens!"
+	}
+
+}

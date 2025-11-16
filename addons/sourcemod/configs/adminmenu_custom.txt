@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d7bf5ec21288892985e445cb31758f98bc24bcb4dc18e655b9c2ba682dd2ba2
-size 223
+// Custom admin menu commands.
+// For more information:
+//
+// http://wiki.alliedmods.net/Custom_Admin_Menu_%28SourceMod%29
+//
+// Note: This file must be in Valve KeyValues format (no multiline comments)
+//
+
+"Commands"
+{
+
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26cf469c9b6fef2a3b41085cc87b5d11a987755ab81487b74a34daec2c166a05
-size 83
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"lt"		"Išmestas dėl vietų rezervacijos"
+	}
+
+}

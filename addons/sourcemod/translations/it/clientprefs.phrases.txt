@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43f5fcf68175768bdffc2ea6126397e9616a4de16c800a1261cf66adfff128f3
-size 688
+"Phrases"
+{
+	"Cookie List"
+	{
+		"it"		"Lista dei cookie di Sourcemod"
+	}
+
+	"Printing Cookie List"
+	{
+		"it"		"Stampa della lista dei cookie nella console"
+	}
+
+	"Cookie not Found"
+	{
+		"it"		"Impossibile trovare il cookie \"{1}\"  "
+	}
+
+	"Cookie Value"
+	{
+		"it"		"Il valore di {1} è {2}"
+	}
+
+	"Protected Cookie"
+	{
+		"it"		"Impossibile modificare il valore del cookie protetto \"{1}\"  "
+	}
+
+	"Cookie Changed Value"
+	{
+		"it"		"Valore del cookie \"{1}\" modificato in \"{2}\""
+	}
+
+	"No Console"
+	{
+		"it"		"Impossibile mostrare il menu delle impostazioni nella console"
+	}
+
+	"Choose Option"
+	{
+		"it"		"Scegli l'opzione"
+	}
+
+	"Client Settings"
+	{
+		"it"		"Impostazioni del client"
+	}
+
+}

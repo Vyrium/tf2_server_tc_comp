@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aab0a6ff850b3bf611e48395945b9ce98096fd936883484a2cac1b80eb257c73
-size 533
+"Phrases"
+{
+	"SM help commands"
+	{
+		"he"		"עזרת סורס מוד : מידע על פקודה"
+	}
+
+	"No description available"
+	{
+		"he"		"אין הסבר זמין"
+	}
+
+	"No commands available"
+	{
+		"he"		"אין פקודות זמינות"
+	}
+
+	"Type sm_help to see more"
+	{
+		"he"		"sm_help {1}  כדי לראות עוד פקודות תרשום בבקשה"
+	}
+
+	"Entries n - m in page k"
+	{
+		"he"		"ערכים {1} - {2} בדף {3} "
+	}
+
+	"No matching results found"
+	{
+		"he"		"לא נמצאו תוצאות מתאימות"
+	}
+
+}

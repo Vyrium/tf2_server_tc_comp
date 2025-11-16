@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9719742788709d6060f94300d0b81b0f2f8317e7bf38029bb869a01503241345
-size 89
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"ar"		"تم إلقاءك لمكان محجوز."
+	}
+
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ccfa568dd5a5c370e580ebae0badd9016108d108ae856fdebea16162b789060
-size 91
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"tr"		"{1} adlı oyuncuya ses çalındı"
+	}
+
+}

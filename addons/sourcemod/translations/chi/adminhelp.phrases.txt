@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:855e0e2486c66ab70ad92e0b688c913544ea673546e5a7387fdbc10bb8680225
-size 434
+"Phrases"
+{
+	"SM help commands"
+	{
+		"chi"		"SourceMod 帮助: 指令信息"
+	}
+
+	"No description available"
+	{
+		"chi"		"无详细描述"
+	}
+
+	"No commands available"
+	{
+		"chi"		"无适用指令"
+	}
+
+	"Type sm_help to see more"
+	{
+		"chi"		"键入 sm_help {1} 查看更多指令"
+	}
+
+	"Entries n - m in page k"
+	{
+		"chi"		"条目 {1} - {2} 于第 {3} 页"
+	}
+
+	"No matching results found"
+	{
+		"chi"		"无匹配结果可寻"
+	}
+
+}

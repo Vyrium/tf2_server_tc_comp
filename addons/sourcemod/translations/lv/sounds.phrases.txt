@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2c1cd53498d5ac9568a6e696ce354f34527ddbcd9f069facad1101d6232eee7
-size 94
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"lv"		"Atskaņoja skaņu spēlētājam  {1}"
+	}
+
+}

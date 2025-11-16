@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c42dd12b53ab44f7a9d7a3d908aacf8798022777759afbf4d626cf468c4361c8
-size 299
+"Phrases"
+{
+	"Map History"
+	{
+		"da"		"Bane historie"
+	}
+
+	"Map"
+	{
+		"da"		"[Bane]"
+	}
+
+	"Started"
+	{
+		"da"		"[Startede]"
+	}
+
+	"Played Time"
+	{
+		"da"		"[Spillet tid]"
+	}
+
+	"Reason"
+	{
+		"da"		"[Afslutningsårsag]"
+	}
+
+	"Current Map"
+	{
+		"da"		"Aktuelle bane"
+	}
+
+	"ago"
+	{
+		"da"		"siden"
+	}
+
+}

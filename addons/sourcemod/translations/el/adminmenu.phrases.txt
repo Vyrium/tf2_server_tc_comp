@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b6fb153320b4ed9fe9894e4a447e6baf32505e42eaf8f1b46cafc8e1f43cae0a
-size 287
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"el"		"Μενού Διαχειριστή"
+	}
+
+	"Player Commands"
+	{
+		"el"		"Εντολές Παίκτη"
+	}
+
+	"Server Commands"
+	{
+		"el"		"Εντολές Διακομιστή"
+	}
+
+	"Voting Commands"
+	{
+		"el"		"Εντολές Ψηφοφορίας"
+	}
+
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7956837f3ca3cbb3bc30ee61780e658440ca3c9f0e48ff6758e24c5dc7f5575
-size 83
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"pl"		"Odtworzono dźwięk u {1}"
+	}
+
+}

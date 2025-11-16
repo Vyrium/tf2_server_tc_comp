@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b47d566f1bfc15a6e4420fbe0d29ff1395812af8958ceb09a4f58ad543b17962
-size 442
+"Phrases"
+{
+	"Slap player"
+	{
+		"ro"		"Slap jucător"
+	}
+
+	"Slap damage"
+	{
+		"ro"		"Damage pentru slap"
+	}
+
+	"Slay player"
+	{
+		"ro"		"Slay jucător"
+	}
+
+	"Slapped target"
+	{
+		"ro"		"{1} a primit slap."
+	}
+
+	"Slayed target"
+	{
+		"ro"		"{1} a primit slay."
+	}
+
+	"Name changed"
+	{
+		"ro"		"Un admin ti-a schimbat numele"
+	}
+
+	"Renamed target"
+	{
+		"ro"		"Nume schimbat {1}."
+	}
+
+	"Rename player"
+	{
+		"ro"		"Schimba numele jucatorului"
+	}
+
+}

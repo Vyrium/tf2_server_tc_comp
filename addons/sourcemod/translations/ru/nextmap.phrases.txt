@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1280b79fb5d8ff7998c69c8c0df480ce99a41a1750d00a5e0ac69cdc97a6c7f
-size 376
+"Phrases"
+{
+	"Map History"
+	{
+		"ru"		"История карт"
+	}
+
+	"Map"
+	{
+		"ru"		"[Карта]"
+	}
+
+	"Started"
+	{
+		"ru"		"[Началось]"
+	}
+
+	"Played Time"
+	{
+		"ru"		"[Сыгранное время]"
+	}
+
+	"Reason"
+	{
+		"ru"		"[Причина окончания]"
+	}
+
+	"Current Map"
+	{
+		"ru"		"Текущая карта"
+	}
+
+	"ago"
+	{
+		"ru"		"раньше"
+	}
+
+}

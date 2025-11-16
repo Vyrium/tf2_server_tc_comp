@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:527062ca934f495845f4a3231d629b4ac555c6b1c96a06a985fd52d987a45864
-size 215
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"zho"		"管理員菜單"
+	}
+
+	"Player Commands"
+	{
+		"zho"		"玩家指令"
+	}
+
+	"Server Commands"
+	{
+		"zho"		"伺服器指令"
+	}
+
+	"Voting Commands"
+	{
+		"zho"		"投票指令"
+	}
+
+}

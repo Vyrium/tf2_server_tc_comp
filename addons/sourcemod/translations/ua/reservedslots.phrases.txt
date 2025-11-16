@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0ea9fd56a9cfb11da1e26c7056598ae2b8586cc3c5f2d48d5c78ba03a4ca132
-size 145
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"ua"		"Ви були відключені за використання резервного слота"
+	}
+
+}

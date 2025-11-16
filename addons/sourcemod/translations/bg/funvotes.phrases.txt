@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2dd2c24399f145cdbfcb87e1c7d467b3fdd055776f0a961937fa152e6f1c4a46
-size 81
+"Phrases"
+{
+    "Slayed player"
+	{
+		"bg"		"Играчът {1} е убит"
+	}
+}

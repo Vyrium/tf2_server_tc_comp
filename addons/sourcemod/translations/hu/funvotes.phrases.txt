@@ -1,3 +1,98 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1de03b867a2f6e73d66426411020425f78b0ce70ed2636a5603a5a91117823b
-size 1149
+"Phrases"
+{
+	"Initiated Vote Gravity"
+	{
+		"hu"		"Gravitacios szavazas"
+	}
+
+	"Initiated Vote Burn"
+	{
+		"hu"		"{1} megégetése szavazásra bocsájtva"
+	}
+
+	"Initiated Vote Slay"
+	{
+		"hu"		"Levágas szavazás {1} ellen "
+	}
+
+	"Initiated Vote Alltalk"
+	{
+		"hu"		"Alltalk szavazas"
+	}
+
+	"Initiated Vote FF"
+	{
+		"hu"		"FF szavazas"
+	}
+
+	"Gravity Vote"
+	{
+		"hu"		"Gravitáció szavazás: {1}?"
+	}
+
+	"Change Gravity To"
+	{
+		"hu"		"Gravitációs érték változtatása {1} - ra"
+	}
+
+	"Voteburn player"
+	{
+		"hu"		"{1} megegetese?"
+	}
+
+	"Voteslay Player"
+	{
+		"hu"		"{1} levagasa?"
+	}
+
+	"Votealltalk Off"
+	{
+		"hu"		"Kikapcsoljuk az Alltalk-ot? {1}"
+	}
+
+	"Votealltalk On"
+	{
+		"hu"		"Bekapcsoljuk az Alltalk-ot? {1}"
+	}
+
+	"Voteff Off"
+	{
+		"hu"		"Kikapcsoljuk az FF-et? {1}"
+	}
+
+	"Voteff On"
+	{
+		"hu"		"Bekapcsoljuk az FF-et? {1}"
+	}
+
+	"Gravity vote"
+	{
+		"hu"		"Gravitáció szavazás"
+	}
+
+	"Vote FF"
+	{
+		"hu"		"Csapatsebzés szavazás"
+	}
+
+	"Burn vote"
+	{
+		"hu"		"Égetés szavazás"
+	}
+
+	"Alltalk vote"
+	{
+		"hu"		"Alltalk szavazás"
+	}
+
+	"Slay vote"
+	{
+		"hu"		"Levagas szavazasa"
+	}
+
+	"Slayed player"
+	{
+		"hu"		"Megölt játékos: {1}"
+	}
+
+}

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98222fc8c3eabb698c45ec610d8495dac7aba42b25ec8824e2bdf95fdc308d54
-size 439
+"banreasons"
+{
+	"Abusive"			"Abusive"
+	"Racism"			"Racism"
+	"General cheating/exploits"	"General cheating/exploits"
+	"Wallhack"			"Wallhack"
+	"Aimbot"			"Aimbot"
+	"Speedhacking"			"Speedhacking"
+	"Mic spamming"			"Mic spamming"
+	"Admin disrespect"		"Admin disrespect"
+	"Camping"			"Camping"
+	"Team killing"			"Team killing"
+	"Unacceptable Spray"		"Unacceptable Spray"
+	"Breaking Server Rules"		"Breaking Server Rules"
+	"Other"				"Other"
+}

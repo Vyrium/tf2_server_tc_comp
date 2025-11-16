@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:073b3627e6abdd28c25a0a0f163cbf5c769dd620877a0dd92f40fe571fc14489
-size 662
+#include <sourcemod>
+
+public OnPluginStart()
+{
+	new Handle:hostname = FindConVar("hostname")
+	HookConVarChange(hostname, OnChange)
+	HookEvent("player_team", cb)
+	RegServerCmd("test_bug4059", Test_Bug)
+}
+
+public Action:cb(Handle:event, const String:name[], bool:dontBroadcast)
+{
+	UnhookEvent(name, cb)
+	PrintToServer("whee")
+	HookEvent(name, cb)
+	return Plugin_Handled
+}
+
+public OnChange(Handle:convar, const String:oldValue[], const String:newValue[])
+{
+	PrintToServer("called: %x", convar)
+	UnhookConVarChange(convar, OnChange)
+	ResetConVar(convar)
+	HookConVarChange(convar, OnChange)
+}
+
+public Action:Test_Bug(args)
+{
+	ServerCommand("hostname \"bug4059\"")
+}
+

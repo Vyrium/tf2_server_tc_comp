@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f84ae1e1f91d0377e9fcb4e5ec7e4231f336f0499e666bd589b714b512ef9dab
-size 823
+"Phrases"
+{
+	"Gag/Mute player"
+	{
+		"hu"		"Írás tiltás / Némitás"
+	}
+
+	"Choose Type"
+	{
+		"hu"		"Tipus kiválasztása"
+	}
+
+	"Gagged target"
+	{
+		"hu"		"{1} írás joga  letiltva"
+	}
+
+	"Ungagged target"
+	{
+		"hu"		"{1} újra írhat"
+	}
+
+	"Muted target"
+	{
+		"hu"		"{1} némitva"
+	}
+
+	"Unmuted target"
+	{
+		"hu"		"{1} feloldva"
+	}
+
+	"Silenced target"
+	{
+		"hu"		"{1} írás- és beszédjoga letiltva"
+	}
+
+	"Unsilenced target"
+	{
+		"hu"		"{1} újra írhat és beszélhet"
+	}
+
+	"Mute Player"
+	{
+		"hu"		"Némítás"
+	}
+
+	"UnMute Player"
+	{
+		"hu"		"Némítás feloldása"
+	}
+
+	"Gag Player"
+	{
+		"hu"		"Írás tiltás"
+	}
+
+	"UnGag Player"
+	{
+		"hu"		"Írás tiltás feloldása"
+	}
+
+	"Silence Player"
+	{
+		"hu"		"Írás- és beszédjog tiltása"
+	}
+
+	"UnSilence Player"
+	{
+		"hu"		"Írás és beszéd engedélyezése"
+	}
+
+}

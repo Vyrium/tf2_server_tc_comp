@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba1b2c712cb3fce3915f6cdf2c9d83a774f96c7f85d15f854fea853c57ea9494
-size 1322
+"Phrases"
+{
+	"Invalid authtype"
+	{
+		"lv"		"Autorizācijas tipam ir jābūt 'steam', 'name', vai 'ip'. "
+	}
+
+	"Invalid immunity"
+	{
+		"lv"		"Imunitātei ir jābūt pozitīvam skaitlim."
+	}
+
+	"SQL Admin already exists"
+	{
+		"lv"		"Administrators ar uzrādītajiem datiem jau eksistē."
+	}
+
+	"SQL Admin added"
+	{
+		"lv"		"Administrators veiksmīgi pievienots datubāzei."
+	}
+
+	"SQL Admin deleted"
+	{
+		"lv"		"Administrators veiksmīgi izdzēsts no datubāzes."
+	}
+
+	"SQL Admin not found"
+	{
+		"lv"		"Administrators ar uzrādītajiem datiem netika atrasts."
+	}
+
+	"SQL Group already exists"
+	{
+		"lv"		"Grupa ar šādu nosaukumu jau eksistē."
+	}
+
+	"SQL Group added"
+	{
+		"lv"		"Grupa veiksmīgi pievienota datubāzei."
+	}
+
+	"SQL Group deleted"
+	{
+		"lv"		"Grupa veiksmīgi izdzēsta no datubāzes."
+	}
+
+	"SQL Group not found"
+	{
+		"lv"		"Grupa ar norādīto nosaukumu netika atrasta."
+	}
+
+	"SQL Admin groups reset"
+	{
+		"lv"		"Administratora grupas ir veiksmīgi atjaunotas."
+	}
+
+	"SQL Group X not found"
+	{
+		"lv"		"Nevar atrast grupu: \"{1}\""
+	}
+
+	"SQL Group X failed to bind"
+	{
+		"lv"		"Grupu nevar piesaistīt: \"{1}\""
+	}
+
+	"Added group to user"
+	{
+		"lv"		"Veiksmīgi pievienota grupa dotajam administratoram."
+	}
+
+	"Added groups to user"
+	{
+		"lv"		"Veiksmīgi pievienotas {1} grupas dotajam administratoram."
+	}
+
+}

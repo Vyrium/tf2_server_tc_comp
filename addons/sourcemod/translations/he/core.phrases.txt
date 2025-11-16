@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e155ecbe9361741cacfcb8fa2f08b88293cf34dc424c25d111d80176ae39c046
-size 537
+"Phrases"
+{
+	"No Access"
+	{
+		"he"		"אין לך גישה לפקודה זו"
+	}
+
+	"Back"
+	{
+		"he"		"אחורה"
+	}
+
+	"Next"
+	{
+		"he"		"הבא"
+	}
+
+	"Exit"
+	{
+		"he"		"צא"
+	}
+
+	"Previous"
+	{
+		"he"		"הקודם"
+	}
+
+	"all players"
+	{
+		"he"		"כל השחקנים"
+	}
+
+	"all humans"
+	{
+		"he"		"כל האנשים"
+	}
+
+	"all bots"
+	{
+		"he"		"כל הרובוטים"
+	}
+
+	"all dead players"
+	{
+		"he"		"כל השחקנים המתים"
+	}
+
+	"all alive players"
+	{
+		"he"		"כל השחקנים החיים"
+	}
+
+	"_s"
+	{
+		"he"		"{1}"
+	}
+
+}

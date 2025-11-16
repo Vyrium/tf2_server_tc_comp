@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14e13be93b407352cd322f0d345237ff304515bc2cff9a948075f87fa2f1322c
-size 522
+"Phrases"
+{
+	"Slap player"
+	{
+		"jp"		"プレイヤーを叩く"
+	}
+
+	"Slap damage"
+	{
+		"jp"		"叩くダメージ"
+	}
+
+	"Slay player"
+	{
+		"jp"		"プレイヤーを殺害"
+	}
+
+	"Slapped target"
+	{
+		"jp"		"{1}を叩きました。"
+	}
+
+	"Slayed target"
+	{
+		"jp"		"{1}を殺害しました。"
+	}
+
+	"Name changed"
+	{
+		"jp"		"管理者があなたの名前を変更しました。"
+	}
+
+	"Renamed target"
+	{
+		"jp"		"{1}をリネームしました。"
+	}
+
+	"Rename player"
+	{
+		"jp"		"プレイヤーをリネーム"
+	}
+}

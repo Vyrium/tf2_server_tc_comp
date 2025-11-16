@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fde5d780c0ec057374e90fedf17c46618da0f664dcb9d9334c9a2f497c9ced15
-size 217
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"sv"		"Adminmeny"
+	}
+
+	"Player Commands"
+	{
+		"sv"		"Spelarkommandon"
+	}
+
+	"Server Commands"
+	{
+		"sv"		"Serverkommandon"
+	}
+
+	"Voting Commands"
+	{
+		"sv"		"Omröstningskommandon"
+	}
+
+}

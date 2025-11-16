@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3cc47a4105abf477024a0dc1db787245bc3afc626856b6ac2fd671e622363ee
-size 831
+"Games"
+{
+	/* Dino D-Day */
+	"dinodday"
+	{
+		"Offsets"
+		{
+			"GiveNamedItem"
+			{
+				"windows"	"424"
+			}
+			"RemovePlayerItem"
+			{
+				"windows"	"286"
+			}
+			"Weapon_GetSlot"
+			{
+				"windows"	"275"
+			}
+			"Ignite"
+			{
+				"windows"	"219"
+			}
+			"Extinguish"
+			{
+				"windows"	"222"
+			}
+			"Teleport"
+			{
+				"windows"	"113"
+			}
+			"CommitSuicide"
+			{
+				"windows"	"468"
+			}
+			"GetVelocity"
+			{
+				"windows"	"138"
+			}
+			"EyeAngles"
+			{
+				"windows"	"129"
+			}
+			"AcceptInput"
+			{
+				"windows"	"40"
+			}
+			"SetEntityModel"
+			{
+				"windows"	"26"
+			}
+			"WeaponEquip"
+			{
+				"windows"	"278"
+			}
+			"Activate"
+			{
+				"windows"	"37"
+			}
+			"PlayerRunCmd"
+			{
+				"windows"	"444"
+			}
+		}
+		
+		"Keys"
+		{
+			"GameRulesProxy"		"CDDDGameRulesProxy"
+			"GameRulesDataTable"	"ddd_gamerules_data"
+		}
+	}
+}

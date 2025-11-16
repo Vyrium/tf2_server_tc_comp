@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20496ab1990624d640ee82c576c4fae816f11518a22571a9541c9e9b1c0d02a8
-size 473
+"Phrases"
+{
+	"Name changed"
+	{
+		"en"			"An admin has changed your name"
+	}
+
+	"Renamed target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Renamed {1}."
+	}
+
+	"Rename player"
+	{
+		"en"			"Rename player"
+	}
+	
+	"Slap player"
+	{
+		"en"			"Slap player"
+	}
+
+	"Slap damage"
+	{
+		"en"			"Slap damage"
+	}
+	
+	"Slay player"
+	{
+		"en"			"Slay player"
+	}
+	
+	"Slapped target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Slapped {1}."
+	}
+	
+	"Slayed target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Slayed {1}."
+	}
+}

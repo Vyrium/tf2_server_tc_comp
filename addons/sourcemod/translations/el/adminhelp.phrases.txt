@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eda485a8e9e59cadd7ef267c2babe0149b337a225228dbcf53b13d8c167896ca
-size 689
+"Phrases"
+{
+	"SM help commands"
+	{
+		"el"		"Bοήθεια SourceMod: Πληροφορίες Εντολών"
+	}
+
+	"No description available"
+	{
+		"el"		"Δεν υπάρχει διαθέσιμη περιγραφή"
+	}
+
+	"No commands available"
+	{
+		"el"		"Δεν υπάρχουν διαθέσιμες εντολές"
+	}
+
+	"Type sm_help to see more"
+	{
+		"el"		"Γράψτε sm_help {1} για να δείτε περισσότερες εντολές"
+	}
+
+	"Entries n - m in page k"
+	{
+		"el"		"{1} - {2} Καταχωρήσεις στη σελίδα {3}"
+	}
+
+	"No matching results found"
+	{
+		"el"		"Δεν βρέθηκαν αποτελέσματα που να αντιστοιχούν"
+	}
+
+}

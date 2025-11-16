@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75e958274303bbfd63d370a368939bb94c55eb58009e7fd77595a246b36a6080
-size 1346
+"Phrases"
+{
+	"Already Nominated"
+	{
+		"bg"		"Вече номинирахте карта."
+	}
+
+	"Max Nominations"
+	{
+		"bg"		"Максимално позволеният брой номинации беше достигнат."
+	}
+
+	"Map Already In Vote"
+	{
+		"bg"		"Картата {1} вече е в списъка на номинираните."
+	}
+
+	"Map Inserted"
+	{
+		"bg"		"Картата {1} е добавена в списъка на номинираните."
+	}
+
+	"Map Already Nominated"
+	{
+		"bg"		"Картата, която избрахте, вече е номинирана."
+	}
+
+	"Map Nominated"
+	{
+		"bg"		"{1} номинира {2}"
+	}
+
+	"Map Nomination Changed"
+	{
+		"bg"		"{1} промени номинацията си на {2}."
+	}
+
+	"Nominate Title"
+	{
+		"bg"		"Номиниране на карта:"
+	}
+
+	"Can't Nominate Current Map"
+	{
+		"bg"		"Картата, която избрахте, е текущата карта и тя не може да бъде номинирана"
+	}
+
+	"Map in Exclude List"
+	{
+		"bg"		"Картата, която избрахте, е играна наскоро и не може да бъде номинирана"
+	}
+
+	"Current Map"
+	{
+		"bg"		"Текуща карта"
+	}
+
+	"Recently Played"
+	{
+		"bg"		"Наскоро играна"
+	}
+
+	"Nominated"
+	{
+		"bg"		"Номинирана"
+	}
+
+}

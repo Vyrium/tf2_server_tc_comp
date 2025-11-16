@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5355e92527c5cc14a2cfe8a1e432b66f54b20c4d8f63347eda5c34a25234639
-size 100
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"jp"		"予約スロットのために落とされます。"
+	}
+
+}

@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a583967c8b554a082f6b32f93157c60b29858e18007b022c82183f601508ed13
-size 473
+"Phrases"
+{
+	"Slap player"
+	{
+		"tr"		"Oyuncuyu tokatla"
+	}
+
+	"Slap damage"
+	{
+		"tr"		"Tokatlama hasarı"
+	}
+
+	"Slay player"
+	{
+		"tr"		"Oyuncuyu katlet"
+	}
+
+	"Slapped target"
+	{
+		"tr"		"{1} tokatlandı."
+	}
+
+	"Slayed target"
+	{
+		"tr"		"{1} katledildi."
+	}
+
+	"Name changed"
+	{
+		"tr"		"Bir yönetici adınızı değiştirdi"
+	}
+
+	"Renamed target"
+	{
+		"tr"		"{1} adlı oyuncunun adı değiştirildi."
+	}
+
+	"Rename player"
+	{
+		"tr"		"Oyuncunun adını değiştir"
+	}
+
+}

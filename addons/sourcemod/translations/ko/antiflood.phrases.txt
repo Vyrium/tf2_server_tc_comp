@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8c3e66c83718f594d5f64bfe2e25ba860980835b05f6524812afa6cf45a238a
-size 92
+"Phrases"
+{
+	"Flooding the server"
+	{
+		"ko"		"조금 더 천천히 대화하세요!"
+	}
+
+}

@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec232bcbc7316c51f56ff1591fb718c59e78c42af87951a67301d30e35d82f11
-size 227
+/*
+	modified copy of engine.ep1.txt
+*/
+
+"Games"
+{
+	/* CGlobalEntityList */
+	"#default"
+	{
+		"#supported"
+		{
+			"game"		"gmod9"
+		}
+		
+		"Offsets"
+		{
+			"GetDataDescMap"
+			{
+				"windows"	"15"
+				"linux"		"16"
+			}
+		}
+	}	
+}

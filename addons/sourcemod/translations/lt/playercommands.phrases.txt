@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d5c6cf2ccc8d07c2ba4bc3940e0beac8505c2bc414b17f01d84dc6bdad02ddb
-size 475
+"Phrases"
+{
+	"Slap player"
+	{
+		"lt"		"Stuktelti žaidėją"
+	}
+
+	"Slap damage"
+	{
+		"lt"		"Stuktelėjimo žala"
+	}
+
+	"Slay player"
+	{
+		"lt"		"Patiesti žaidėją"
+	}
+
+	"Slapped target"
+	{
+		"lt"		"Stukteltas {1}."
+	}
+
+	"Slayed target"
+	{
+		"lt"		"Patiesė {1}."
+	}
+
+	"Name changed"
+	{
+		"lt"		"Administratorius pakeitė Jūsų pseudonimą"
+	}
+
+	"Renamed target"
+	{
+		"lt"		"Pakeistas {1} pseudonimas."
+	}
+
+	"Rename player"
+	{
+		"lt"		"Pakeisti žaidėjo pseudonimą"
+	}
+
+}

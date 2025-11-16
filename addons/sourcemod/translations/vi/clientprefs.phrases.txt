@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c95aa91c4052ff83244cf31a30ba98cd226d77f5882451bc23fea45d83053997
-size 741
+"Phrases"
+{
+	"Cookie List"
+	{
+		"vi"		"Danh sách cookie của Sourcemod"
+	}
+
+	"Printing Cookie List"
+	{
+		"vi"		"Đang viết danh sách cookie vào bảng điều khiển"
+	}
+
+	"Cookie not Found"
+	{
+		"vi"		"Không tìm thấy cookie \"{1}\""
+	}
+
+	"Cookie Value"
+	{
+		"vi"		"Giá trị của {1} là {2}"
+	}
+
+	"Protected Cookie"
+	{
+		"vi"		"Không thể thay đổi giá trị của cookie đã được bảo vệ {1}"
+	}
+
+	"Cookie Changed Value"
+	{
+		"vi"		"Đã thay đổi giá trị của cookie {1} sang {2}"
+	}
+
+	"No Console"
+	{
+		"vi"		"Không thể hiển thị menu cài đặt lên bảng điều khiển"
+	}
+
+	"Choose Option"
+	{
+		"vi"		"Chọn tùy chọn"
+	}
+
+	"Client Settings"
+	{
+		"vi"		"Cài đặt người dùng"
+	}
+
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c2a1f826a5bfe5b966956f3124fbbde27a1662c371eee81879cf5b0d13b4d15
-size 81
+"Phrases"
+{
+	"Flooding the server"
+	{
+		"lt"		"Nustokite kalbėti srautu!"
+	}
+
+}

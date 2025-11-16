@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f0da26a57450a1a8b4be512c2218df615468de8e405544ecfb854eca5a4cbef
-size 92
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"sv"		"Nerkopplad på grund av reserverade platser"
+	}
+
+}

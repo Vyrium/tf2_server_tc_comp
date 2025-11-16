@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97dc76cfb2f8257e8c48585cdcfb3d5ffa00a37408e17e7403f684fe35e48f45
-size 81
+"Phrases"
+{
+	"Flooding the server"
+	{
+		"it"		"Stai spammando nel server!"
+	}
+
+}

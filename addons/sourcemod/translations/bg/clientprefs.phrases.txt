@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:22069a416e70b8b0a0703a8f9596c60ba427d716039049212c83505f7fae1b91
-size 957
+"Phrases"
+{
+	"Cookie List"
+	{
+		"bg"		"Sourcemod списък с бисквити"
+	}
+
+	"Printing Cookie List"
+	{
+		"bg"		"Извеждане на списъка с бисквитите в конзолата"
+	}
+
+	"Cookie not Found"
+	{
+		"bg"		"Бисквитата \"{1} не може да бъде намерена"
+	}
+
+	"Cookie Value"
+	{
+		"bg"		"Стойността на {1} е {2}"
+	}
+
+	"Protected Cookie"
+	{
+		"bg"		"Стойността на защитената бисквита \"{1} не може да бъде променена"
+	}
+
+	"Cookie Changed Value"
+	{
+		"bg"		"Стойността на бисквитата е сменена от \"{1}\" на \"{2}\""
+	}
+
+	"No Console"
+	{
+		"bg"		" Менюто за настройките не може да бъде показано в конзолата "
+	}
+
+	"Choose Option"
+	{
+		"bg"		"Изберете опция"
+	}
+
+	"Client Settings"
+	{
+		"bg"		"Клиентски настройки"
+	}
+
+}

@@ -1,3 +1,88 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6884af979c8090ec9387324c42f38ec588c2a0acae6ffc8e9b2a746b452fe5f8
-size 977
+"Phrases"
+{
+	"No Access"
+	{
+		"ar"		"ليس لديك صلاحية لهذا الامر"
+	}
+
+	"Back"
+	{
+		"ar"		"الرجوع"
+	}
+
+	"Next"
+	{
+		"ar"		"التالي"
+	}
+
+	"Exit"
+	{
+		"ar"		"الخروج"
+	}
+
+	"Previous"
+	{
+		"ar"		"السابق"
+	}
+
+	"all players"
+	{
+		"ar"		"كل اللاعبين"
+	}
+
+	"all humans"
+	{
+		"ar"		"كل البشر"
+	}
+
+	"all bots"
+	{
+		"ar"		"كل اللاعبين(الحاسوب)"
+	}
+
+	"all dead players"
+	{
+		"ar"		"كل اللاعبين الاموات"
+	}
+
+	"all alive players"
+	{
+		"ar"		"كل اللاعبين الاحياء"
+	}
+
+	"_s"
+	{
+		"ar"		"{1}"
+	}
+
+	"all spectators"
+	{
+		"ar"		"كل المشاهدين"
+	}
+
+	"Vote Count"
+	{
+		"ar"		"تسويتات: {1}/{2}، {3} باقية"
+	}
+
+	"Voted For"
+	{
+		"ar"		"{1} صوت ل {2}"
+	}
+
+	"Changed Vote"
+	{
+		"ar"		"{1} غير تصويته ل {2}"
+	}
+
+	"No Vote"
+	{
+		"ar"		"لا تصويت"
+	}
+
+	"Name Reserved"
+	{
+		"ar"		"إسمك محجوز؛ عدل رقم سري لإتسعماله."
+	}
+
+}

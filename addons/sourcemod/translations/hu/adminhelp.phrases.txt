@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebfd4c2a75fd27804c8631e934e0031b79da944c03382ff744da0ee48f7f64ca
-size 478
+"Phrases"
+{
+	"SM help commands"
+	{
+		"hu"		"SM segitség: Parancs információ"
+	}
+
+	"No description available"
+	{
+		"hu"		"Nincs elérhető leirás"
+	}
+
+	"No commands available"
+	{
+		"hu"		"Nincs elérhető parancs"
+	}
+
+	"Type sm_help to see more"
+	{
+		"hu"		"Ird be, hogy sm_help {1} a további parancsokért"
+	}
+
+	"Entries n - m in page k"
+	{
+		"hu"		"Valtozók {1} -től {2} -ig a {3}. oldalon"
+	}
+
+	"No matching results found"
+	{
+		"hu"		"Nincs megfelelő eredmény"
+	}
+
+}

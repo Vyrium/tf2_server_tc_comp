@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3be382cf7eb2dff468536af4e76bbdcf87e2f975c67753b6e5cfc6cd0e3f794b
-size 314
+"Phrases"
+{
+	"Map History"
+	{
+		"lv"		"Kartes vēsture"
+	}
+
+	"Map"
+	{
+		"lv"		"[Karte]"
+	}
+
+	"Started"
+	{
+		"lv"		"[Uzsākta]"
+	}
+
+	"Played Time"
+	{
+		"lv"		"[Nospēlētais laiks]"
+	}
+
+	"Reason"
+	{
+		"lv"		"[Labojumu iemesls]"
+	}
+
+	"Current Map"
+	{
+		"lv"		"Patreizējā karte"
+	}
+
+	"ago"
+	{
+		"lv"		"pirms"
+	}
+
+}

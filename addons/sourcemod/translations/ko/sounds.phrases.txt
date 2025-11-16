@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:463e83d40c5db07d2bcf537a9011e5c0893f6103c2c0a75ca55d456ddfb7217b
-size 103
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"ko"		"{1} 님에게 소리를 들려주었습니다"
+	}
+
+}

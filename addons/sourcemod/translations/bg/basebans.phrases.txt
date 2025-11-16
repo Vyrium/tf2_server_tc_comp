@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:234af6d5739569b761717a3c4a4129146d44c7bf29067d1eacd5bacbf4f2bbf4
-size 915
+"Phrases"
+{
+	"Ban player"
+	{
+		"bg"		"Блокиране на играча"
+	}
+
+	"Ban reason"
+	{
+		"bg"		"Причина за блокиране"
+	}
+
+	"Permabanned player"
+	{
+		"bg"		"Играчът {1} е блокиран за постоянно."
+	}
+
+	"Permabanned player reason"
+	{
+		"bg"		"Играчът {1} е блокиран за постоянно. (причина: {2}."
+	}
+
+	"Banned player"
+	{
+		"bg"		"Играчът {1} е блокиран за {2} минути."
+	}
+
+	"Banned player reason"
+	{
+		"bg"		"Играчът {1} е блокиран за {2} минути (причина: {3})."
+	}
+
+	"Removed bans matching"
+	{
+		"bg"		"Премахнатите забрани отговарят на филтъра: {1}"
+	}
+
+	"Ban added"
+	{
+		"bg"		"Забраната беше добавена."
+	}
+
+	"Cannot ban that IP"
+	{
+		"bg"		"Не можете да блокирате този IP адрес."
+	}
+
+}
